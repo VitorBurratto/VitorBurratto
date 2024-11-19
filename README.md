@@ -17,12 +17,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VitorBurratto.VitorBurratto&" />
-</div>
-
-###
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 ###
@@ -78,7 +72,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github.com/VitorBurratto/VitorBurratto/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
