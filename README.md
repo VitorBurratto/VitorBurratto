@@ -22,7 +22,6 @@
 ###
 
 <p align="left">
-  I'm Vitor from Brazil.<br><br>
   - 🎓 Graduating in Information Technology at UFRN (2024).<br>
   - 🔭 Currently working with back-end development and website optimization.<br>
   - 📚 Constantly learning about Django, REST APIs, and improving my programming skills.<br>
