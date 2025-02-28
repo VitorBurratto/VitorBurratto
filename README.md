@@ -21,12 +21,11 @@
 
 ###
 
-<p align="left">
-  - 🎓 Graduating in Information Technology at UFRN (2024).<br>
-  - 🔭 Currently working with back-end development and website optimization.<br>
-  - 📚 Constantly learning about Django, REST APIs, and improving my programming skills.<br>
-  - ⚡ In my free time, I enjoy volunteering and exploring new tech tools.<br>
-</p>
+  - **🎓 Graduating in Information Technology at UFRN (2024).**
+  - **🔭 Currently working with back-end development and website optimization.**
+  - **📚 Constantly learning about Django, REST APIs, and improving my programming skills**
+  - **⚡ In my free time, I enjoy volunteering and exploring new tech tools.**
+
 
 ###
 
