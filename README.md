@@ -10,24 +10,9 @@
   <a href="mailto:vitorabd@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://www.instagram.com/vitorburratto/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+
 </div>
 
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-  - **🎓 Graduating in Information Technology at UFRN (2024).**
-  - **🔭 Currently working with back-end development and website optimization.**
-  - **📚 Constantly learning about Django, REST APIs, and improving my programming skills**
-  - **⚡ In my free time, I enjoy volunteering and exploring new tech tools.**
-
-
-###
 
 <h3 align="left">🛠 Language and Tools</h3>
 
@@ -47,16 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 </div>
-
-###
-
-<h3 align="left">📚 Other Skills</h3>
-
-###
-
-- **Scrum**  
-- **Microsoft Office Suite**  
-- **Computer Maintenance**
 
 ###
 
